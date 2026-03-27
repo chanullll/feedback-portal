@@ -1,0 +1,13 @@
+config/mail.php
+config/mail.php.backup
+uploads/*
+!uploads/.gitkeep
+test-*.php
+*-debug.php
+reset-password.php
+fix-mail.php
+smtp-debug.php
+check-setup.php
+.DS_Store
+.vscode/
+.idea/
